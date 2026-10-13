@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Flora%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Frontend%20%2B%20Python%2FNLP%20%7C%20Building%20things%20that%20matter&descAlignY=58&descSize=16" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=CS+student+from+Albania;Frontend+%2B+Python+%2B+NLP;Building+things+that+matter+%E2%9C%A8;Powered+by+coffee+and+Coca-Cola" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=flora209&color=7ee787&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
 <img src="https://img.shields.io/badge/Tirana-Albania-e41e20?style=flat-square" alt="location"/>
 
 </div>
@@ -108,6 +109,16 @@
 </div>
 
 ---
+
+<div align="center">
+
+### 📫 Let's connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-flora209-181717?style=for-the-badge&logo=github)](https://github.com/flora209)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+</div>
 
 <div align="center">
 
