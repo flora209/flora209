@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Flora%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Frontend%20%2B%20Python%2FNLP%20%7C%20Building%20things%20that%20matter&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=CS+student+from+Albania+%F0%9F%87%A6%F0%9F%87%B1;Frontend+%2B+Python+%2B+NLP;Building+things+that+matter+%E2%9C%A8;Powered+by+coffee+and+Coca-Cola+%F0%9F%A5%A4" alt="Typing SVG" />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=flora209.flora209&left_color=gray&right_color=2ea44f" alt="views"/>
 </a>
 
 <br/>
