@@ -112,15 +112,6 @@
 
 <div align="center">
 
-### 📫 Let's connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-flora209-181717?style=for-the-badge&logo=github)](https://github.com/flora209)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-
-</div>
-
-<div align="center">
 
 ### 📫 Let's connect
 
